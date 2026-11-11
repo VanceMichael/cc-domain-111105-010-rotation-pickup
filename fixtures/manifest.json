@@ -1,0 +1,27 @@
+[
+  {
+    "file": "gateway.log",
+    "bytes": 97,
+    "sha256": "ba109b0912f9887acdfbd24a6483f6f8a029e5b4674d80560bcf9c136bdaeb9c"
+  },
+  {
+    "file": "gateway-utf16.log",
+    "bytes": 144,
+    "sha256": "6ecd189a362bafeb5eaacd35d84eb60a492da27cfef8fd7a67d7d4d9030e0c4c"
+  },
+  {
+    "file": "tail-partial.bin",
+    "bytes": 73,
+    "sha256": "304f44ad9d9ba6ca167cfcbd4365cbf7836b10b5d6fba1722b98eef805ebacca"
+  },
+  {
+    "file": "device.json",
+    "bytes": 187,
+    "sha256": "42813df660b8ebb07c64a911f679be099bce790e68078fb1a4545990890f6ff4"
+  },
+  {
+    "file": "scan-events.json",
+    "bytes": 659,
+    "sha256": "badc88f632bdb6b34b29b2652d90ef2f87b8203d27ac9e740008e275f8ce486e"
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "time": 0,
+    "event": "scan",
+    "files": [
+      {
+        "path": "current.log",
+        "identity": "dev1:40",
+        "size": 64
+      }
+    ]
+  },
+  {
+    "time": 10,
+    "event": "scan",
+    "files": [
+      {
+        "path": "old.log",
+        "identity": "dev1:40",
+        "size": 96
+      },
+      {
+        "path": "current.log",
+        "identity": "dev1:41",
+        "size": 32
+      }
+    ]
+  },
+  {
+    "time": 20,
+    "event": "scan",
+    "files": [
+      {
+        "path": "current.log",
+        "identity": "dev1:41",
+        "size": 2
+      }
+    ]
+  },
+  {
+    "time": 50,
+    "event": "seal",
+    "identity": "dev1:40"
+  }
+]
